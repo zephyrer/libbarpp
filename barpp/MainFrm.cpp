@@ -1,7 +1,7 @@
 // barpp
 // Dominik Cebula
 // dominikcebula@gmail.com
-// This file is part of the libbarpp project,
+// This file is part of the barpp project,
 // licensed under GPLv2
 
 // MainFrm.cpp : implementation of the CMainFrame class
